@@ -2,8 +2,7 @@
 
 This is a simple To-Do List application built using React.js and Vite. It allows users to add, delete, mark tasks as completed, and search for specific tasks.
 
-![Screenshot_20240325_210302](https://github.com/Binary-Shade/ReactApp-ToDoList/assets/115919438/d2d68973-75bb-415a-88e9-92b77f4cb4fa)
-
+![Demo](demo.gif)
 
 ## Features
 
@@ -60,6 +59,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-If you have any questions or feedback, feel free to contact me at 02042003sureshk@gmail.com.
+If you have any questions or feedback, feel free to contact me at your-email@example.com.
+```
 
-happy hacking 🚀
+Make sure to replace placeholders such as `your-username` and `your-email@example.com` with your actual GitHub username and email address. Also, ensure you include a `demo.gif` file showing a demo of your app in action, and update the instructions for installation and running the app according to how it's set up in your project.
