@@ -8,7 +8,7 @@ import List from './List';
 const Content = ({items, handleChange, handleDelete}) => {
   
 return (
-    <main>
+    <>
       {items.length ? (
         < List 
           items = {items}
@@ -19,7 +19,7 @@ return (
           <p>No Tasks to finish </p>
         )
 }
-    </main>
+    </>
 )
 }
 

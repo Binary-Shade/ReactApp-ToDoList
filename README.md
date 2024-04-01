@@ -59,4 +59,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-If you have any questions or feedback, feel free to contact me at your-email@example.com..
+If you have any questions or feedback, feel free to contact me at your-email@example.com.
+```
+
+Make sure to replace placeholders such as `your-username` and `your-email@example.com` with your actual GitHub username and email address. Also, ensure you include a `demo.gif` file showing a demo of your app in action, and update the instructions for installation and running the app according to how it's set up in your project.

@@ -1,0 +1,19 @@
+{
+    "items":[
+        {
+            "id":1,
+            "checked": false,
+            "task": "eat greens"
+        },
+        {
+            "id":2,
+            "checked": true,
+            "task": "drink water"
+        },
+        {
+            "id":3,
+            "checked": true,
+            "task": "work out"
+        }
+    ]
+}
