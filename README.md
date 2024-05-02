@@ -4,7 +4,7 @@ This is a simple To-Do List application built using React.js and Vite. It allows
 
 ![Demo](demo.gif)
 
-## Features
+## Features..
 
 - Add new tasks
 - Delete tasks
